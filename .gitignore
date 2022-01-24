@@ -1,9 +1,8 @@
-# Adding config.py file.
+# Adding to git.ignore
 config.py
-
-#Adding additional files
 random_numbers.ipynb
 API_practice.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
